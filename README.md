@@ -57,7 +57,7 @@
 
 ## Açık kaynak
 
-**Kitzi**, on bir aracı tek menü çubuğu uygulamasında toplayan ücretsiz bir macOS uygulaması: pano geçmişi, ekran görüntüsü ve not ekleme, dosya dönüştürücü, disk analizi, klasör kuralları, Dock önizlemeleri, ses karıştırıcı ve daha fazlası. İnternet gerektirmez, veriler yalnızca Mac'te kalır. GPL-3.0 lisanslıdır.
+**Kitzi**, on dört aracı tek menü çubuğu uygulamasında toplayan ücretsiz bir macOS uygulaması: pano geçmişi, ekran görüntüsü ve not ekleme, dosya dönüştürücü, disk analizi, klasör kuralları, Dock önizlemeleri, ses karıştırıcı, uzak masaüstü, çentik paneli, ekran ayarları ve daha fazlası. İnternet gerektirmez, veriler yalnızca Mac'te kalır. GPL-3.0 lisanslıdır.
 
 → [Kaynak kodu: ErciyeSoft/Kitzi](https://github.com/ErciyeSoft/Kitzi) · [Kitzi hakkında](https://www.erciyesoft.com/urunlerimiz/kitzi-ucretsiz-mac-uygulamasi)
 
