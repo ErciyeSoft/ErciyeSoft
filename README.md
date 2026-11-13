@@ -59,7 +59,7 @@
 
 **Clipzy**, on bir aracı tek menü çubuğu uygulamasında toplayan ücretsiz bir macOS uygulaması: pano geçmişi, ekran görüntüsü ve not ekleme, dosya dönüştürücü, disk analizi, klasör kuralları, Dock önizlemeleri, ses karıştırıcı ve daha fazlası. İnternet gerektirmez, veriler yalnızca Mac'te kalır. GPL-3.0 lisanslıdır.
 
-→ [Clipzy hakkında](https://www.erciyesoft.com/urunlerimiz/clipzy-ucretsiz-mac-uygulamasi)
+→ [Kaynak kodu: ErciyeSoft/Clipzy](https://github.com/ErciyeSoft/Clipzy) · [Clipzy hakkında](https://www.erciyesoft.com/urunlerimiz/clipzy-ucretsiz-mac-uygulamasi)
 
 ## İletişim
 
